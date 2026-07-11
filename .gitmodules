@@ -1,3 +1,6 @@
-[submodule "back-end"]
+[submodule "kero-server"]
 	path = kero-server
 	url = https://github.com/Matheus-FSantos/kero-server.git
+[submodule "kero-website"]
+	path = kero-website
+	url = https://github.com/Matheus-FSantos/kero-website.git

@@ -1,0 +1,3 @@
+[submodule "kero-server"]
+	path = kero-server
+	url = https://github.com/Matheus-FSantos/kero-server.git
